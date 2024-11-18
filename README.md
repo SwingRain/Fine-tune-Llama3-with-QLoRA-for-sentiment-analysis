@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 ## Results
 
-![Testing the model with fine-tuning](https://raw.githubusercontent.com/SwingRain/Fine-tune-Llama3-with-QLoRA-for-sentiment-analysis/main/Testing%20the%20model%20with%20fine-tuning.png)
+![Testing the model with fine-tuning](https://github.com/SwingRain/Fine-tune-Llama3-with-QLoRA-for-sentiment-analysis/blob/main/Testing%20the%20model%20without%20fine-tuning.png)
 
 After fine-tuning, the model achieved high performance on the sentiment analysis task. Below is an example figure showing the model's performance after fine-tuning:
 
