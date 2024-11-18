@@ -20,9 +20,11 @@ These results demonstrate the effectiveness of combining LLaMA-3 and QLoRA for l
 
 ## Files and Structure
 
-- `fine-tune-llama3-with-qlora-for-sentiment-analysis.ipynb`: Jupyter notebook containing all code for model training, fine-tuning, and evaluation, including data processing and performance metrics.
-- `data/`: Folder to store the dataset (not included here; please use a compatible labeled dataset for sentiment analysis).
-- `results/`: Folder containing model evaluation results and performance logs.
+- `fine-tune-llama3-with-qlora-for-sentiment-analysis.ipynb`: Jupyter notebook with code for fine-tuning the LLaMA-3 model using QLoRA for sentiment analysis, including data processing, model training, and evaluation.
+- `Testing the model with fine-tuning.png`: An image showing the model's performance after fine-tuning.
+- `Testing the model without fine-tuning.png`: An image showing the model's performance before fine-tuning.
+- `all-data.csv`: The full dataset used for training and evaluation in this project.
+- `test_predictions.csv`: Contains predictions from the fine-tuned model on the test set.
 
 ## Requirements
 
