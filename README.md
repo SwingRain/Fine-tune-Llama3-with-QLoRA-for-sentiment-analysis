@@ -38,7 +38,7 @@ Install the dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-## Results
+## Fine tune Results
 
 ![Testing the model with fine-tuning](https://github.com/SwingRain/Fine-tune-Llama3-with-QLoRA-for-sentiment-analysis/blob/main/Testing%20the%20model%20without%20fine-tuning.png)
 
