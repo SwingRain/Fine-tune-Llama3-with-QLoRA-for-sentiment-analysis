@@ -9,14 +9,6 @@ In this project, we:
 - Utilize QLoRA for efficient model parameterization and optimization.
 - Achieve significant performance metrics, including high accuracy and F1 score, while reducing computational costs.
 
-## Key Results
-
-- **Accuracy**: 94%
-- **F1 Score**: 0.91
-- **Processing Speed**: Capable of analyzing up to 12,000 text samples per minute
-- **Cost Efficiency**: Training time reduced by 30% with optimized configurations
-
-These results demonstrate the effectiveness of combining LLaMA-3 and QLoRA for large-scale sentiment analysis, allowing real-time analysis in resource-constrained environments.
 
 ## Files and Structure
 
